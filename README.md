@@ -5,5 +5,5 @@
 
 前端页面环境要求：nodejs版本在16.20.0以上
 
-在vscode控制台执行“npm install”命令下载好依赖后，以“npm run serve”命令启动项目
+因github文件大小限制，故需要在vscode控制台执行“npm install”命令下载好依赖后，才能以“npm run serve”命令启动项目
     
